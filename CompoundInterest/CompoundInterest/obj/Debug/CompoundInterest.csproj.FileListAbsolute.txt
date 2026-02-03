@@ -1,0 +1,7 @@
+A:\C#\CompoundInterest\CompoundInterest\obj\Debug\CompoundInterest.csproj.AssemblyReference.cache
+A:\C#\CompoundInterest\CompoundInterest\obj\Debug\CompoundInterest.csproj.CoreCompileInputs.cache
+A:\C#\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.exe.config
+A:\C#\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.exe
+A:\C#\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.pdb
+A:\C#\CompoundInterest\CompoundInterest\obj\Debug\CompoundInterest.exe
+A:\C#\CompoundInterest\CompoundInterest\obj\Debug\CompoundInterest.pdb
