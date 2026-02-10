@@ -1,0 +1,7 @@
+A:\C#\OddEven\OddEven\obj\Debug\OddEven.csproj.AssemblyReference.cache
+A:\C#\OddEven\OddEven\obj\Debug\OddEven.csproj.CoreCompileInputs.cache
+A:\C#\OddEven\OddEven\bin\Debug\OddEven.exe.config
+A:\C#\OddEven\OddEven\bin\Debug\OddEven.exe
+A:\C#\OddEven\OddEven\bin\Debug\OddEven.pdb
+A:\C#\OddEven\OddEven\obj\Debug\OddEven.exe
+A:\C#\OddEven\OddEven\obj\Debug\OddEven.pdb
