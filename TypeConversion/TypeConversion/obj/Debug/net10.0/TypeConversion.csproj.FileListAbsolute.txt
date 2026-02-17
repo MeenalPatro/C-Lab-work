@@ -1,0 +1,14 @@
+A:\C#\TypeConversion\TypeConversion\bin\Debug\net10.0\TypeConversion.exe
+A:\C#\TypeConversion\TypeConversion\bin\Debug\net10.0\TypeConversion.deps.json
+A:\C#\TypeConversion\TypeConversion\bin\Debug\net10.0\TypeConversion.runtimeconfig.json
+A:\C#\TypeConversion\TypeConversion\bin\Debug\net10.0\TypeConversion.dll
+A:\C#\TypeConversion\TypeConversion\bin\Debug\net10.0\TypeConversion.pdb
+A:\C#\TypeConversion\TypeConversion\obj\Debug\net10.0\TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#\TypeConversion\TypeConversion\obj\Debug\net10.0\TypeConversion.AssemblyInfoInputs.cache
+A:\C#\TypeConversion\TypeConversion\obj\Debug\net10.0\TypeConversion.AssemblyInfo.cs
+A:\C#\TypeConversion\TypeConversion\obj\Debug\net10.0\TypeConversion.csproj.CoreCompileInputs.cache
+A:\C#\TypeConversion\TypeConversion\obj\Debug\net10.0\TypeConversion.dll
+A:\C#\TypeConversion\TypeConversion\obj\Debug\net10.0\refint\TypeConversion.dll
+A:\C#\TypeConversion\TypeConversion\obj\Debug\net10.0\TypeConversion.pdb
+A:\C#\TypeConversion\TypeConversion\obj\Debug\net10.0\TypeConversion.genruntimeconfig.cache
+A:\C#\TypeConversion\TypeConversion\obj\Debug\net10.0\ref\TypeConversion.dll
